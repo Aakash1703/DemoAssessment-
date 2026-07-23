@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  PROJECT_ID: YOUR_GCP_PROJECT_ID
+  PROJECT_ID: totemic-vim-503320-s6
   REGION: us-central1
   SERVICE: hello-aakash-site
 
