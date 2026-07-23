@@ -11,7 +11,7 @@ HTML = """<!DOCTYPE html>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Hi Aakash</h1>
+  <h1>Hello Kamal</h1>
 </body>
 </html>
 """
